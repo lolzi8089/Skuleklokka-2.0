@@ -1,0 +1,6 @@
+{
+  "name": "SkuleKlokka",
+  "description": "A precise school clock and schedule tracker for students and teachers. Track periods, breaks, and time remaining at a glance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
